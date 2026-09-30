@@ -427,7 +427,7 @@ function App() {
       <div style={{ padding: '20px 60px 40px', color: NNTV.moonlight }}>
         <div style={{ fontSize: 28, fontWeight: 700, color: NNTV.cream, letterSpacing: 2 }}>NIGHT NINJA : TWILIGHT VOYAGE</div>
         <div style={{ fontSize: 13, color: NNTV.silver, marginTop: 6, maxWidth: 720 }}>
-          Pixel-art asset set for tiennm99/nntv. 32×32 characters, 16×16 tiles, 80×40 act backgrounds.
+          Pixel-art asset set for tiennm99dev/nntv. 32×32 characters, 16×16 tiles, 80×40 act backgrounds.
           Strict guard-color readability preserved. Palette: evolution of the original indigo theme toward twilight plum + moonlight.
         </div>
       </div>

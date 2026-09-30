@@ -39,7 +39,7 @@ Play: `npm run dev` → `http://localhost:5173`
 ## Quick Start
 
 ```sh
-git clone https://github.com/tiennm99/nntv
+git clone https://github.com/tiennm99dev/nntv
 cd nntv
 npm install
 npm run dev        # dev server at http://localhost:5173

@@ -142,7 +142,7 @@
 ## Project Status
 
 **Current Version:** 2.0.0 (Playable, Hard, Offline)
-**Repository:** GitHub (tiennm99/nntv)
+**Repository:** GitHub (tiennm99dev/nntv)
 **Last Updated:** 2026-07-26
 **CI:** Node 24, npm; all tests passing (243 unit + solvability, 39 level-specific)
 
