@@ -1,6 +1,6 @@
 # Offline & GitHub Pages Readiness Audit
 
-Date: 2026-07-25 | Repo: `C:\Users\miti99\Workspaces\tiennm99\nntv` | Branch `main` @ `eb800f1` (clean)
+Date: 2026-07-25 | Repo: `tiennm99dev/nntv` | Branch `main` @ `eb800f1` (clean)
 Build verified: `pnpm build` exit 0, vite 6.4.3. Tests: `pnpm test` 180/180 pass, 9 files, 38.2s.
 `dist` is gitignored (`.gitignore:14`).
 

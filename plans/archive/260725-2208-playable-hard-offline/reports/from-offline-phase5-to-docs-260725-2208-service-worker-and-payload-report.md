@@ -1,6 +1,6 @@
 # Phase 5 — Offline + Deploy + Assets
 
-Repo `C:\Users\miti99\Workspaces\tiennm99\nntv`, branch `main`. Changes left uncommitted in working tree
+Repo `tiennm99dev/nntv`, branch `main`. Changes left uncommitted in working tree
 per instruction. Other phases (1/4) were editing `src/lib/game/**`, `src/lib/levels/**`, `src/components/**`
 concurrently during this work — none of those files were touched here.
 
